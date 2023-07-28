@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @WojciechBu
+- 👀 I’m interested in sports, motorcycles, books, running, fitness
+- 🌱 I’m currently learning - CodersLab - Test Automation Engineer
+- 💞️ I’m looking to collaborate on Jira, Postman, SoupUI, API
+- 📫 How to reach me: email wojciechbtest@gmail.com
+- Certificate CodersLab - Manual Tester
+- ISTQB in progress.
